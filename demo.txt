@@ -1,2 +1,2 @@
-hello git
-ya hai commit k baad ka file
+ya to maine pura hi alag kar dia 
+ya tisra commit hai diff from 1 and 2
